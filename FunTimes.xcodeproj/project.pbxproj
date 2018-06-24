@@ -67,6 +67,8 @@
 		C33805D620DDBC6D0005DD8A /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				C3AA9E7F20DECA1E0006D3F1 /* confetti.png */,
+				C3AA9E8020DECA1E0006D3F1 /* Confetti.scnp */,
 				C33805D720DDE6FA0005DD8A /* SpriteScene.sks */,
 				C3B6A3B320DB2AA10011717D /* Main.storyboard */,
 				C3B6A3B620DB2AA40011717D /* Assets.xcassets */,
@@ -109,8 +111,6 @@
 				C3B6A3AD20DB2AA10011717D /* AppDelegate.swift */,
 				C3B6A3B120DB2AA10011717D /* ViewController.swift */,
 				C33805D620DDBC6D0005DD8A /* Resources */,
-				C3AA9E7F20DECA1E0006D3F1 /* confetti.png */,
-				C3AA9E8020DECA1E0006D3F1 /* Confetti.scnp */,
 			);
 			path = FunTimes;
 			sourceTree = "<group>";
